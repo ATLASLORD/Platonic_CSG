@@ -1,0 +1,19 @@
+{
+	"author": "ARES LORD",
+	"build": "115872",
+	"context": "server",
+	"date": "2022-07-31",
+	"display_name": "Platonic CSGs SERVER",
+	"description": "Platonic Solids for map builders",
+	"forum": "https://forums.planetaryannihilation.com/threads/real-earth-csgs-v1-0.73409/",
+	"identifier": "com.pa.areslord.platonic.server",
+	"companions": ["com.pa.areslord.platonic.client"],
+  	"dependencies": ["com.pa.areslord.platonic.client"],
+	"signature": "not yet implemented",
+	"version": "1.0.1",
+	"icon": "https://imgur.com/x8C1LJM.png",
+	"category":
+	[
+		"CSG Addon"
+	]
+}
