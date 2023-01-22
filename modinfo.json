@@ -3,7 +3,7 @@
 	"build": "116400",
 	"context": "server",
 	"date": "2023-01-19",
-	"display_name": "Platonic CSGs SERVER",
+	"display_name": "Platonic CSGs",
 	"description": "Platonic Solids for map builders",
 	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
 	"identifier": "com.pa.areslord.platonic.server",
