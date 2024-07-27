@@ -9,10 +9,10 @@
 	"icon": "https://imgur.com/x8C1LJM.png",
 	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
 	"context": "server",
-	"date": "2023-01-23",
+	"date": "2024-07-27",
 	"companions": ["com.pa.areslord.platonic.client"],
   	"dependencies": ["com.pa.areslord.platonic.client"],
-	"version": "1.1.4",
+	"version": "1.2",
 	"category":
 	[
 		"titans",
