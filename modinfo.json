@@ -12,7 +12,7 @@
 	"date": "2024-07-27",
 	"companions": ["com.pa.areslord.platonic.client"],
   	"dependencies": ["com.pa.areslord.platonic.client"],
-	"version": "1.2",
+	"version": "1.2.1",
 	"category":
 	[
 		"titans",
